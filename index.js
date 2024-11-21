@@ -49,7 +49,7 @@ function KareninAlani(kenaruzunlugu) {
 	3. Çemberin çevresi hesaplanacaktır (💡 İPUCU: Çemberin çevresi = 2 * pi * yarıçap)
 	4. Hesaplanan çemberin çevresi döndürülecektir.
 */
-
+/*merhabalar*/
 function CemberinCevresi(/* kodlar buraya */) {
   /* kodlar buraya */
 }
